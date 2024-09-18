@@ -1,5 +1,4 @@
 # Bedrock-code
-## AWS Bedrock Project
 - This project demonstrates the integration of AWS Lambda, AWS API Gateway, and Python to create a scalable serverless architecture. The project allows you to execute Python functions via RESTful APIs hosted on AWS.
 
 ## Features
